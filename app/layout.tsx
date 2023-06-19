@@ -15,7 +15,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <h1 className='text-center text-2xl font-bold mt-7'>Todo App</h1>
+        {children}
+      </body>
     </html>
   )
 }

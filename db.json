@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "title": "Finish project proposal",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "title": "Schedule doctor's appointment",
+      "isDone": true
+    },
+    {
+      "title": "fruits",
+      "isDone": false,
+      "id": 4
+    },
+    {
+      "title": "clothes",
+      "isDone": true,
+      "id": 5
+    }
+  ]
+}
